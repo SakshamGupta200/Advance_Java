@@ -1,0 +1,29 @@
+.outer{
+    height: 100vh;
+    width: 100vw;
+    background-color: violet;
+}
+.header{
+    height: 20vh;
+    width: 100vw;
+    background-color: orange;
+}
+.navbar{
+    background-color: transparent;
+    border-color: orange;
+    height: 20vh;
+    font-size: 0.6cm;
+}
+.navbar a{
+    color: white;
+}
+.work{
+    height: 60vh;
+    width: 100vw;
+    background-color: white;
+}
+.footer{
+    height: 20vh;
+    width: 100vw;
+    background-color: green;
+}
